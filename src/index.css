@@ -1,0 +1,30 @@
+* { margin: 0; padding: 0; }
+img { border: 0; }
+.clearboth { clear: both; }
+td { vertical-align: top; }
+
+html { width: 100%; height: 100%; }
+body { background: #fff; font: 14px/18px arial; }
+
+/* FORM */
+.none { border: none; background: #f7f9fa; margin: 1px 5px 0 0; }
+.big-field { width: 180px; margin-right: 6px; font: 12px/130% arial, helvetica; color: #333; height: 16px; padding: 2px 0px 0 3px; border-top: solid 1px #67676a; border-left: solid 1px #67676a; border-bottom: solid 1px #ccc; border-right: solid 1px #ccc; background: #f7f9fa; }
+
+.formDiv { background: #f9f9f9; padding: 20px 0 20px 20px; border-bottom: 1px solid #ccc; }
+.form-spacing { margin: 14px 0 0 0; }
+.cell-one { width: 100px; text-align: right; padding: 2px; }
+.cell-two { width: 210px; padding: 2px; }
+.two-cells { padding: 2px; }
+
+.standardButton { padding: 3px 10px 2px 10px; cursor: pointer; }
+
+/* GRID */
+.main-grid { margin: 30px 0 10px 130px; }
+.gridTable { margin: 8px 0 0 0; border-collapse: collapse; }
+.heading-cell { background: #265e99; color: #fff; padding: 5px 10px 3px 10px; border-right: 2px solid #fff; }
+.grid-cell { background: #f5f5f5; padding: 5px 10px 3px 10px; border-right: 2px solid #fff; border-bottom: 2px solid #fff; }
+.alternateRowColor td { background: #ccc; }
+
+.green { color: green; }
+.red { color: red; font-weight: bold; }
+.orange { color: #cc6600; font-weight: bold; }
